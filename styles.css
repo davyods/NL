@@ -1,0 +1,42 @@
+*{
+    background-color: #DBDBDB;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color:#CFCFCF;
+    color: #4E4E4E;
+    border:solid 2px black;
+    cursor: pointer;
+  }
+
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color:#CFCFCF;
+    color: #4E4E4E;
+    border:solid 2px black;
+    cursor: pointer;
+  }
+  h1{
+    text-align: center;
+    margin-bottom: 5%;
+
+  }
+
+
+  img{
+    
+   
+  }
+
+  body{
+    background-position: top center;
+}
